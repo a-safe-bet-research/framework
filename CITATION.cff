@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it using the metadata below."
+type: software
+title: "[Study title]: analysis code and materials"
+version: 0.1.0
+date-released: "YYYY-MM-DD"
+doi: "[Zenodo version DOI]"
+repository-code: "https://github.com/a-safe-bet-research/[repo]"
+license: "PolyForm-Noncommercial-1.0.0"
+authors:
+  - family-names: Galvin
+    given-names: Harriet R.
+    orcid: "https://orcid.org/XXXX-XXXX-XXXX-XXXX"
+    affiliation: "Erasmus University Rotterdam"
+  - family-names: Boffo
+    given-names: Marilisa
+    affiliation: "Erasmus University Rotterdam"
+keywords:
+  - responsible gambling
+  - adaptive intervention
+  - A Safe Bet
+preferred-citation:
+  type: article
+  title: "[Paper title]"
+  authors:
+    - family-names: Galvin
+      given-names: Harriet R.
+  journal: "[Journal]"
+  year: 0000
+  doi: "[article DOI]"
