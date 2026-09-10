@@ -1,28 +1,28 @@
 # Data access statement
 
-[Study title]
+A Safe Bet: framework development
 
 ## Summary
 
-[Two or three sentences: what data the study uses, who holds them, and the headline on availability.]
+The study is a scoping review and framework-development exercise based on the published literature. No participant, operator or platform data were collected or analysed. Every dataset produced by the study is open.
 
 ## Categories
 
 ### Open
-[Datasets that are in this repository or in a public repository, with location and licence.]
+The taxonomy dataset (410 tool records extracted from the included studies), the convergent evidence set, the Responsible Gambling Intervention Framework, the framework-to-architecture translation, and the UK and Netherlands implementation architectures. All are in `materials/` in this repository and in the deposit cited in the manuscript (https://doi.org/10.17605/OSF.IO/SWRKT). Licence: CC BY-NC-SA 4.0.
 
 ### Derived or aggregated only
-[What is shared in `data/derived/`, how it was derived, and what it cannot be used for.]
+None.
 
 ### Controlled access
-[What exists, who holds it, the repository or contact through which access is requested, and the conditions.]
+None.
 
 ### Not shareable
-[What exists and the reason: participant consent, operator agreement, EUR data governance.]
+None.
 
 ## Variable definitions
 
-[Codebook location, e.g. `common/data-dictionary/`.]
+Field definitions are in `protocol/02_extraction_framework/` (extraction codebook, 45-field inventory) and in the codebooks accompanying the framework and architecture files in `materials/`.
 
 ## Contact
 
