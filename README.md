@@ -6,7 +6,7 @@ Development of the A Safe Bet framework: a scoping review and structured taxonom
 
 Part of [A Safe Bet](https://github.com/a-safe-bet-research), a research programme on player-tailored responsible gambling led by Erasmus University Rotterdam and the University of Amsterdam.
 
-**Status:** under revision at *International Gambling Studies* (submitted 8 July 2026; revise-and-resubmit decision 19 August 2026).
+**Status:** under revision 
 
 ## Preregistration
 
