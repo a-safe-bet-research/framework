@@ -6,7 +6,7 @@ Development of the A Safe Bet framework: a scoping review and structured taxonom
 
 Part of [A Safe Bet](https://github.com/a-safe-bet-research), a research programme on player-tailored responsible gambling led by Erasmus University Rotterdam and the University of Amsterdam.
 
-**Status:** under revision 
+**Status:** accepted for publication in *International Gambling Studies* (25 November 2026). 
 
 ## Preregistration
 
@@ -18,7 +18,7 @@ None at present.
 
 ## Publication
 
-Not yet published. Citation to be added on acceptance.
+Galvin, H. R., Snippe, L., Wohl, M. J. A., Wiers, R. W., & Boffo, M. (in press). Translating Evidence into Design: A Safe Bet—The design process and outcomes for a Tailored Online Responsible Gambling Intervention Framework. *International Gambling Studies*. DOI to be added on publication.
 
 ## Repository contents
 
@@ -31,21 +31,21 @@ The numbered subfolders match the Open Science Framework deposit cited in the ma
 | `materials/03_rg_taxonomy/` | Taxonomy dataset of 410 tool records, convergent evidence set, structural patterns |
 | `materials/04_rg_intervention_framework/` | The Responsible Gambling Intervention Framework (210 tools across 15 domains), its codebook, framework-to-architecture translation |
 | `materials/05_implementation_architectures/` | UK and Netherlands implementation architectures, architecture codebook, architecture methodology |
-| `code/` | Scripts used to produce the taxonomy analyses and figures, where applicable |
-| `outputs/` | Figures and tables as submitted |
+| `code/` | No scripts are deposited for this study |
+| `outputs/` | Main-text figures and tables as accepted |
 
 ## Data availability
 
 | Category | What | Where |
 |---|---|---|
-| Open | All review, extraction, taxonomy, framework and architecture files | This repository; the deposit cited in the manuscript at https://doi.org/10.17605/OSF.IO/SWRKT |
+| Open | All review, extraction, taxonomy, framework and architecture files | This repository; Zenodo, https://doi.org/10.5281/zenodo.23040023 (the version cited in the article); OSF, https://doi.org/10.17605/OSF.IO/SWRKT |
 | Derived or aggregated only | None | |
 | Controlled access | None | |
 | Not shareable | None. No participant data were collected for this study | |
 
 ## Reproducing the analysis
 
-The study is a literature-based synthesis. Where scripts exist in `code/`, they run in numbered order from the repository root; see `code/README.md`.
+The study is a literature-based synthesis. No analysis scripts are deposited. The review, taxonomy, framework and architecture files are in `protocol/`, `materials/` and `outputs/`.
 
 ## Ethics and governance
 
@@ -65,7 +65,7 @@ Code: PolyForm Noncommercial 1.0.0, see `LICENSE-code.md`. Materials, documentat
 
 ## How to cite this repository
 
-Zenodo DOI to be added at the first release. Until then cite the OSF deposit: https://doi.org/10.17605/OSF.IO/SWRKT.
+Cite the article (see Publication). To cite the materials: Galvin, H. R., Snippe, L., Wohl, M. J. A., Wiers, R. W., & Boffo, M. (2026). *A Safe Bet: framework development. Analysis code and materials* (Version v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.23040023. This is the version cited in the article.
 
 ## Related repositories
 
