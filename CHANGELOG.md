@@ -2,6 +2,11 @@
 
 Releases follow the A Safe Bet convention: `v0.x` in development, `v1.0.0` at submission, `v1.x.0` at each resubmission, `v2.0.0` at acceptance. Each `v1+` release is archived on Zenodo.
 
+## [Unreleased]
+
+- Article accepted by *International Gambling Studies* on 25 November 2026 after Revision 2. Revision 2 changed no deposit files, so no new release was made. v1.0.0 (https://doi.org/10.5281/zenodo.23040023) is the version cited in the article.
+- README, CITATION.cff and file map updated to record the acceptance.
+
 ## [v1.0.0] - 2026-09-29
 
 First citable release: the materials as resubmitted to International Gambling Studies (Revision 1) after revise-and-resubmit. No release was made at the July 2026 submission, so numbering starts here. The OSF deposit (https://doi.org/10.17605/OSF.IO/SWRKT) holds the same files.
