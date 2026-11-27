@@ -6,6 +6,7 @@ version: 1.0.0
 date-released: "2026-09-29"
 repository-code: "https://github.com/a-safe-bet-research/framework"
 license: "PolyForm-Noncommercial-1.0.0"
+doi: "10.5281/zenodo.23040023"
 authors:
   - family-names: Galvin
     given-names: Harriet R.
@@ -32,3 +33,28 @@ keywords:
   - taxonomy
   - intervention framework
   - A Safe Bet
+preferred-citation:
+  type: article
+  title: "Translating Evidence into Design: A Safe Bet—The design process and outcomes for a Tailored Online Responsible Gambling Intervention Framework"
+  authors:
+    - family-names: Galvin
+      given-names: Harriet R.
+      orcid: "https://orcid.org/0000-0003-0698-5093"
+      affiliation: "Erasmus University Rotterdam"
+    - family-names: Snippe
+      given-names: Leroy
+      affiliation: "University of Amsterdam"
+    - family-names: Wohl
+      given-names: Michael J. A.
+      orcid: "https://orcid.org/0000-0001-6945-5562"
+      affiliation: "Carleton University"
+    - family-names: Wiers
+      given-names: Reinout W.
+      orcid: "https://orcid.org/0000-0002-4312-9766"
+      affiliation: "University of Amsterdam"
+    - family-names: Boffo
+      given-names: Marilisa
+      orcid: "https://orcid.org/0000-0003-4730-7838"
+      affiliation: "Erasmus University Rotterdam"
+  journal: "International Gambling Studies"
+  status: in-press
